@@ -1,4 +1,6 @@
-# The Docker image for [the silver searcher](https://github.com/ggreer/the_silver_searcher) based on the lightweight Alpine Linux.
+# [The Silver Searcher](https://github.com/ggreer/the_silver_searcher) docker image
+
+The Docker image for [the silver searcher](https://github.com/ggreer/the_silver_searcher) based on the lightweight Alpine Linux.
 
 ## Usage
 ```
