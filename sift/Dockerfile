@@ -3,7 +3,7 @@ FROM alpine:latest
 
 MAINTAINER donderom https://hub.docker.com/u/donderom
 
-ENV SIFT_VERSION 0.8.0
+ENV SIFT_VERSION 0.9.0
 
 RUN apk --update add ca-certificates wget \
         && update-ca-certificates \
